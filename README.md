@@ -15,3 +15,8 @@ Atenção usar alimentação externa na placa shield L293d, remover o jumper da 
 
 Você pode usar a sua criatividade para criar a impressora. Os requisitos para o funcionamento é ela mover para os eixos direita, esquerda, cima, baixo e levantar a caneta. 
 
+![alt text](https://github.com/PatrickHSF/impressora-3d-cnc-caneta-bic/blob/main/imagens_projeto/imagens%20pronterface.jpg?raw=true)
+![alt text](https://github.com/PatrickHSF/impressora-3d-cnc-caneta-bic/blob/main/imagens_projeto/WhatsApp%20Image%202023-06-17%20at%2013.25.15.jpeg?raw=true)
+![alt text](https://github.com/PatrickHSF/impressora-3d-cnc-caneta-bic/blob/main/imagens_projeto/WhatsApp%20Image%202023-06-17%20at%2013.25.14.jpeg?raw=true)
+![alt text](https://github.com/PatrickHSF/impressora-3d-cnc-caneta-bic/blob/main/imagens_projeto/WhatsApp%20Image%202023-06-17%20at%2013.25.13.jpeg?raw=true)
+
